@@ -8,8 +8,8 @@ ChatGPT, Leornado.AI
 
 ## 🧐 Processo de Criação
 - ChatGPT: Eu pedi para escrever um pequeno conto de terror sobre o curupira que se passsa na floresta Amazônica, com um plot twist no final e depois pedi para deixar o conto mais sombrio.
-- Leornado.AI: Usei a descrição que o chatGPT deu para fazer a capa, editei para tirar uma frase que estava acima da capa.
-Editei a imagem por causa do nome estar errado.
+- Leornado.AI: Usei a descrição que o chatGPT deu para fazer a capa e depois pedi para tirar uma frase que estava acima da capa.
+- Editei a imagem no Pixlr para consertar o nome que estava errado.
 
 ## 🚀 Resultados
 Em uma noite de lua cheia na imensidão da Floresta Amazônica, o silêncio era quebrado apenas pelo canto das criaturas noturnas e o sussurro das folhas. Pedro, um jovem caçador, caminhava com cuidado pela mata, em busca de um caminho que seu pai havia perdido anos antes. Os anciãos da vila falavam de uma presença estranha na floresta, mas Pedro, decidido e cético, ignorava os rumores sobre o Curupira, um espírito protetor da mata, conhecido por desorientar aqueles que se aventuravam demais em seu domínio.
