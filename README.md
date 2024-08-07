@@ -4,10 +4,12 @@
 Um pequeno conto de terror sobre o curupira que se passsa na floresta Amazônica.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
+ChatGPT, Leornado.AI
 
 ## 🧐 Processo de Criação
-Eu pedi para escrever um pequeno conto de terror sobre o curupira que se passsa na floresta Amazônica, com um plot twist no final e depois pedi para deixar o conto mais sombrio. Como não gera imagens me descrevou como seria a capa.
+- ChatGPT: Eu pedi para escrever um pequeno conto de terror sobre o curupira que se passsa na floresta Amazônica, com um plot twist no final e depois pedi para deixar o conto mais sombrio.
+- Leornado.AI: Usei a descrição que o chatGPT deu para fazer a capa, editei para tirar uma frase que estava acima da capa.
+Editei a imagem por causa do nome estar errado.
 
 ## 🚀 Resultados
 Em uma noite de lua cheia na imensidão da Floresta Amazônica, o silêncio era quebrado apenas pelo canto das criaturas noturnas e o sussurro das folhas. Pedro, um jovem caçador, caminhava com cuidado pela mata, em busca de um caminho que seu pai havia perdido anos antes. Os anciãos da vila falavam de uma presença estranha na floresta, mas Pedro, decidido e cético, ignorava os rumores sobre o Curupira, um espírito protetor da mata, conhecido por desorientar aqueles que se aventuravam demais em seu domínio.
@@ -42,17 +44,21 @@ Com um último olhar de desespero, Pedro tentou voltar, mas a floresta estava mu
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Descrição da Capa:
 
--Fundo: A capa é dominada por uma cena escura e envolvente da Floresta Amazônica à noite. A floresta é densa e parece quase viva, com árvores retorcidas e folhas que parecem se mover sutilmente como se estivessem respirando. A luz da lua, intensa e prateada, penetra parcialmente através das copas das árvores, criando um efeito de luz e sombra misterioso.
+- Fundo: A capa é dominada por uma cena escura e envolvente da Floresta Amazônica à noite. A floresta é densa e parece quase viva, com árvores retorcidas e folhas que parecem se mover sutilmente como se estivessem respirando. A luz da lua, intensa e prateada, penetra parcialmente através das copas das árvores, criando um efeito de luz e sombra misterioso.
 
--Imagem Central: No centro da capa, um pequeno e antigo abrigo de madeira, quase oculto pela vegetação, é iluminado pela luz da lua. A cabana parece desgastada e coberta de musgo, com uma aura sombria ao seu redor. A porta da cabana está entreaberta, revelando uma escuridão inquietante.
+- Imagem Central: No centro da capa, um pequeno e antigo abrigo de madeira, quase oculto pela vegetação, é iluminado pela luz da lua. A cabana parece desgastada e coberta de musgo, com uma aura sombria ao seu redor. A porta da cabana está entreaberta, revelando uma escuridão inquietante.
 
--Figura: Em primeiro plano, uma silhueta sombria e encapuzada, representando o Curupira, está parcialmente visível. Seus olhos são os únicos traços distintos, brilhando em um tom sobrenatural. A figura deve transmitir uma sensação de mistério e ameaça.
+- Figura: Em primeiro plano, uma silhueta sombria e encapuzada, representando o Curupira, está parcialmente visível. Seus olhos são os únicos traços distintos, brilhando em um tom sobrenatural. A figura deve transmitir uma sensação de mistério e ameaça.
 
--Título: "O Labirinto do Curupira" está escrito na parte superior da capa em letras grandes e estilizadas. O texto pode ter um efeito de textura que lembra a casca de uma árvore ou raízes de uma planta, com um tom esverdeado que se destaca contra o fundo escuro.
+- Título: "O Labirinto do Curupira" está escrito na parte superior da capa em letras grandes e estilizadas. O texto pode ter um efeito de textura que lembra a casca de uma árvore ou raízes de uma planta, com um tom esverdeado que se destaca contra o fundo escuro.
 
--Autor: O nome do autor deve estar na parte inferior da capa em uma fonte menor, mas ainda legível. A fonte pode ser mais simples para não competir com o título, mas ainda assim deve complementar o tema sombrio.
+- Autor: O nome do autor deve estar na parte inferior da capa em uma fonte menor, mas ainda legível. A fonte pode ser mais simples para não competir com o título, mas ainda assim deve complementar o tema sombrio.
 
--Detalhes Adicionais: Adicione alguns detalhes sutis, como folhas secas ou pequenos símbolos indígenas ao redor da borda da capa para enriquecer a sensação de um ambiente místico e enigmático.
+- Detalhes Adicionais: Adicione alguns detalhes sutis, como folhas secas ou pequenos símbolos indígenas ao redor da borda da capa para enriquecer a sensação de um ambiente místico e enigmático.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+<div align="center">
+  
+ ![artwork](https://github.com/user-attachments/assets/b55bc7b5-41fe-4cb9-bdff-4d6db598152d)
+ 
+</div>
+
